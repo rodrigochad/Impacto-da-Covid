@@ -1,4 +1,4 @@
-## Leia-me: Análise de Dados da Covid-19
+## Análise de Dados da Covid-19
 
 Este repositório contém scripts para explorar dados da Covid-19. As habilidades utilizadas incluem:
 
